@@ -1,4 +1,6 @@
 # Security-Cam
+(Made just for fun)
+
 AI Security Cam made with Python.
 
 This Security Camera has AI that starts the camera only when human movement is detected.
